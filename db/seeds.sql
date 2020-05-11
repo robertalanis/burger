@@ -1,5 +1,5 @@
-INSERT INTO burger (name) VALUES ('Big Mac');
-INSERT INTO burger (name) VALUES ('McDouble');
-INSERT INTO burger (name) VALUES ('Whopper');
-INSERT INTO burger (name) VALUES ('Quarter Pounder');
+INSERT INTO burgers (name) VALUES ('Big Mac');
+INSERT INTO burgers (name) VALUES ('McDouble');
+INSERT INTO burgers (name) VALUES ('Whopper');
+INSERT INTO burgers (name) VALUES ('Quarter Pounder');
 
